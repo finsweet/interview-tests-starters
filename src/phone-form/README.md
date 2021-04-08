@@ -1,4 +1,14 @@
-# Phone Form Requirements
+# Phone Form interview task
+
+Create a fully functional country phones dropdown without using any third party pre-made solution.
+
+Finished result as a reference: https://interview-tests.webflow.io/final/phone-form
+
+## How to start
+
+- Clone this repository. It has some built-in developer tools that you can use.
+
+## Requirements
 
 The dropdown must:
 
