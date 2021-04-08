@@ -19,6 +19,7 @@ The dropdown must:
 - Set a default selection when the geolocation fails.Display the country code in the options list.
 - Display the country phone prefix in the selected option.
 - Update a hidden input with the country code selection.
+- Add the CSS class `selected` to the currently selected option in the list.
 - Close if the user clicks outside the dropdown when it's open.
 - Focus the first option that starts with any pressed key. For example: If the user presses the "C" letter, the browser must focus the "CM" (Cameroon) option.
 
