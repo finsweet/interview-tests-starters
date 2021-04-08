@@ -7,6 +7,7 @@ Finished result as a reference: https://interview-tests.webflow.io/final/phone-f
 ## How to start
 
 - Clone this repository. It has some built-in developer tools that you can use.
+- Use the existing `phone-form.html` page to develop the solution.
 
 ## Requirements
 
