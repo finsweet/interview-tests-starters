@@ -13,6 +13,14 @@ h1 {
   font-weight: 700;
 }
 
+h2 {
+  margin-top: 32px;
+  margin-bottom: 20px;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 700;
+}
+
 .section {
   padding-top: 128px;
   padding-bottom: 128px;
