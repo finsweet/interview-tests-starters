@@ -27,3 +27,11 @@ Optionally, the dropdown should:
 
 - Be fully accessible for keyboard navigation and screen reader users.
 - Store the user's selection in a cookie or the local storage of the browser. If a stored selection exists, it must be displayed as the default option instead of geolocating the user.
+
+## We're expecting your best code!
+Invest some time in making sure your code is efficient and follows industries' best practises!
+
+## Webflow gotchas
+Developing in Webflow is not a usual development workflow, as the platform has some gotchas. Please take some time to checkout this video were we give you some recommendations!
+
+https://www.loom.com/share/9ee9157d39964917ab276aec43ebd8a1
